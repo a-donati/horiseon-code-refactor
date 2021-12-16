@@ -58,7 +58,7 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Targeting figure  */
+/* Targeting div hero image  */
 .hero {
     height: 800px;
     width: 100%;
@@ -92,7 +92,7 @@ main h2 {
     float: right;
     margin-left: 25px;
 }
-
+/* Styling for element containing side benefits banner */
 aside {
     margin-right: 20px;
     padding: 20px;
