@@ -5,14 +5,15 @@ Horiseon code refactor is a modified version of Horiseon's website where HTML se
 
 ## Installation
 
-Clone the repo [here](https://github.com/a-donati/horiseon-code-refactor.git) to install horiseon-code-refactor.
+Clone the repository [here](https://github.com/a-donati/horiseon-code-refactor.git) to install horiseon-code-refactor.
 
 
 ## Usage
 
-    ```md
-    ![alt text](assets/images/01-html-css-git-homework-demo.png)
-    ```
+    
+ ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/94128491/146405528-d6f31fba-c804-4644-a810-4b5526762e45.png)
+
+  
 
 ## Contributing
 
