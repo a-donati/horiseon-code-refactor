@@ -23,8 +23,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-MIT License
-
+Licensed under the MIT license.
+<br>
+<details>
+<summary>License Text</summary>
+<br>
 Copyright (c) [2020]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -44,3 +47,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+</details>
