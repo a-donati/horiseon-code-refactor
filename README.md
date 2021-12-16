@@ -1,6 +1,6 @@
 # horiseon-code-refactor
 
-Horiseon code refactor is a modified version of Horiseon's website where HTML semantic and alt tags have been added for improved accessibility and repetitive CSS classes have been condensed. Broken navigation links have been been repaired.
+Horiseon code refactor is a modified version of Horiseon's website where HTML semantic and alt tags have been added for improved accessibility and repetitive CSS classes have been condensed. Broken navigation links have been repaired.
 
 
 ## Installation
